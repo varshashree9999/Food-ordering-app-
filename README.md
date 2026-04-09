@@ -28,5 +28,20 @@ Key Highlights
 
 🎥 Demo Video https://drive.google.com/file/d/16dNJPabDcMa0RvxAIc63Bn8N7YIze8UK/view?usp=sharing
 
+## 📸 Screenshots
 
-📸 Screenshots
+**1. Login Screen**
+![Login Screen](01_Login_Screen.jpg)
+
+**2. Food Ordering Screen**
+![Food Ordering Screen](02_Food_Ordering_Screen.jpg)
+
+**3. Order Confirm Screen**
+![Order Confirm Screen](03_Order_Confirm_Screen.jpg)
+
+**4. SharePoint Orders Data**
+![SharePoint Orders Data](04_SharePoint_Orders_Data.jpg)
+
+**5. Order Confirmation Mail**
+![Order Confirmation Mail](05_Order_Confirmation_Mail.jpg)
+
